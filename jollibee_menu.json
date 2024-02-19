@@ -1,0 +1,67 @@
+{
+    "Entree": [
+        {
+            "name": "Yumburger",
+            "description": "Our langhap-sarap Yumburger with our signature dressing on a fresh bun.",
+            "filipinoness": "Whitewashed"
+        },
+        {
+            "name": "Cheesy Yumburger",
+            "description": "Our langhap-sarap Yumburger is made with our signature dressing and cheese on a fresh bun.",
+            "filipinoness": "Whitewashed"
+        },
+        {
+            "name": "Aloha Yumburger",
+            "description": "A double patty langhap-sarap Yumburger with a pineapple ring, bacon, aloha dressing, and lettuce on a fresh bun.",
+            "filipinoness": "Lumpia Enjoyer"
+        },
+        {
+            "name": "Original Chicken Sandwich",
+            "description": "Our Original Chicken Sandwich starts with a crispy juicy hand-breaded chicken breast fillet, spread with umami mayo and served on a toasted brioche bun.",
+            "filipinoness": "Whitewashed"
+        },
+        {
+            "name": "2-pc Chickenjoy",
+            "description": "A drumstick and thigh of our signature Chickenjoy fried chicken served with a side of gravy for dipping.",
+            "filipinoness": "Lumpia Enjoyer"
+        },
+        {
+            "name": "2-pc Burger Steak",
+            "description": "2 Savory sweet beef burger patties smothered with mushroom gravy, best paired with rice.",
+            "filipinoness": "Swagapino"
+        },
+        {
+            "name": "Jolly Spaghetti",
+            "description": "Our unique spaghetti topped with Jollibee's signature sweet-style sauce, loaded with chunky slices or savory ham, ground meat, and hotdog.",
+            "filipinoness": "Swagapino"
+        },
+        {
+            "name": "Palabok Fiesta",
+            "description": "A traditional Filipino noodle dish covered in garlic sauce, sauteed pork, shrimp, and egg.",
+            "filipinoness": "Swagapino"
+        }
+    ],
+
+    "Dessert": [
+        {
+            "name": "Chocolate Sundae Twirl",
+            "description": "Thick and creamy vanilla soft serve topped with rich, indulgent chocolate syrup.",
+            "filipinoness": "Whitewashed"
+        },
+        {
+            "name": "Pineapple Quencher",
+            "description": "A sweet taste of the Philippines with our signature Pineapple Quencher juice drink.",
+            "filipinoness": "Lumpia Enjoyer"
+        },
+        {
+            "name": "Peach Mango Pie",
+            "description": "Sweet and flaky Peach Mango Pie made with real Philippine mangoes.",
+            "filipinoness": "Swagapino"
+        }
+    ]
+
+
+
+
+
+}
